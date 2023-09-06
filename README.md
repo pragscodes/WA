@@ -6,4 +6,4 @@ Weather Web Application
 
 
 
-✅ Get Exposure to Weather APIs and JSON Queries as weel
+✅ Get Exposure to Weather APIs and JSON
